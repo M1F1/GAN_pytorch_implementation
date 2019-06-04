@@ -1,3 +1,5 @@
 .idea/
-data/
+data
+test_data
 __pycache__/
+data.tar.gz
